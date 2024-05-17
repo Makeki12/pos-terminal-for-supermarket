@@ -26,31 +26,28 @@ Welcome to the POS Terminal for Supermarket! This application is designed to str
 ### Installation
 
 1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/supermarket-pos-terminal.git
-   cd supermarket-pos-terminal
-   ```
+   https://github.com/Makeki12/pos-terminal-for-supermarket
 
-2. **Install Dependencies:**
+3. **Install Dependencies:**
    ```bash
    npm install
    ```
 
-3. **Set Up the Database:**
+4. **Set Up the Database:**
    - Create a new database for the application.
    - Configure the database connection settings in the `.env` file.
 
-4. **Run Database Migrations:**
+5. **Run Database Migrations:**
    ```bash
    npm run migrate
    ```
 
-5. **Start the Application:**
+6. **Start the Application:**
    ```bash
    npm start
    ```
 
-6. **Access the Application:**
+7. **Access the Application:**
    Open your web browser and go to `http://localhost:3000`.
 
 ### Configuration
